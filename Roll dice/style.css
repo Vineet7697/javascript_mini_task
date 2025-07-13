@@ -1,0 +1,30 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color:#fff700;
+}
+#btndice{
+    background-color: aqua;
+}
+div{
+    font-size: 50px;
+    display: none;
+}
+p{
+    
+    font-size: 50px;
+}
+
+/* 
+ .dice {
+      width: 100px;
+      display: none;
+    } */
